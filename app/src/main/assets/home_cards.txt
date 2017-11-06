@@ -1,0 +1,8 @@
+Bitcoin=>BTC
+Ethereum=>ETH
+Argentine peso=>ARS
+West African CFA franc=>XOF
+Central African CFA franc=>XAF
+Canadian dollar=>CAD
+Colombian peso=>COP
+Chinese Yuan Renminbi=>CNY

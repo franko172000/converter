@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="convert_string">$1,200</string>
+    <string name="bitcoin_title">Bitcoin Converter</string>
+    <string name="ethereum_title">Ehtereum Converter</string>
+    <string name="converter_title">Currency Converter</string>
+    <string name="currency_list">Currency List</string>
+</resources>
